@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">برنامج الميم</string>
+    <string name="name">عبد الرحمن حسام</string>
+    <string name="my_name_is">اسمي:</string>
+    <string name="part1_meme">جزء الميم الاول</string>
+    <string name="part2_meme">جزء الميم التاني</string>
+    <string name="job_title">مطور اندرويد</string>
+    <string name="job">الوظيفة:</string>
+    <string name="age">العمر:</string>
+</resources>

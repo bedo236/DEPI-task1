@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ass1</string>
+    <string name="title">Meme App</string>
+    <string name="name">Abd Elrahman Hossam</string>
+    <string name="my_name_is">My Name is:</string>
+    <string name="part1_meme">part1_meme</string>
+    <string name="part2_meme">part2_meme</string>
+    <string name="job_title">ِAndroid Developer</string>
+    <string name="job">Job:</string>
+    <string name="my_age">20</string>
+    <string name="age">Age:</string>
+</resources>
