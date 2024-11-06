@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Task1</string>
     <string name="title">برنامج الميم</string>
     <string name="name">عبد الرحمن حسام</string>
     <string name="my_name_is">اسمي:</string>
@@ -7,5 +8,6 @@
     <string name="part2_meme">جزء الميم التاني</string>
     <string name="job_title">مطور اندرويد</string>
     <string name="job">الوظيفة:</string>
-    <string name="age">العمر:</string>
+    <string name="age">العمر:</string>t
+    <string name="my_age">20</string>
 </resources>
